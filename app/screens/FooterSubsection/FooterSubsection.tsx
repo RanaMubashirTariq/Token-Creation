@@ -59,7 +59,7 @@ export default function FooterSubsection  ()  {
             >
               <CardContent className="p-0 space-y-6">
                 <blockquote className=" text-[#dddddd] text-[32px] max-[1100px]:text-[26px] max-[900px]:text-[24px] max-[900px]:leading-[32px] max-[1100px]:leading-[36px] max-[767px]:text-[20px] max-[767px]:leading-[30px] tracking-[-2%] leading-[41.6px] font-inter font-black">
-                  "{testimonial.quote}"
+                &quot;{testimonial.quote}&quot;
                 </blockquote>
 
                 <div className="flex items-center gap-4 w-full">
