@@ -131,7 +131,7 @@ export default function FooterSubsection  ()  {
 
       <footer className="h-[377px] max-[1000px]:h-[300px] max-[500px]:h-[400px] justify-between pt-[102px] max-[1000px]:pt-[50px] pb-16 max-[1000px]:pb-10 px-20 max-[1100px]:px-[50px] max-[767px]:px-[25px] w-full bg-[#101010] flex flex-col items-start ">
         <div className="flex items-center justify-between w-full max-[500px]:flex-col max-[500px]:items-start gap-5">
-            <img src="/Logo.png" className="w-[90px] h-6" alt="" />
+            <img src="/.logo.png" className="w-[90px] h-6" alt="" />
           <nav className="flex w-[640px] items-start justify-end gap-12 max-[767px]:gap-5 max-[500px]:w-[100%] max-[500px]:flex-col z-20">
             {navigationLinks.map((link, index) => (
               <a
@@ -168,11 +168,11 @@ export default function FooterSubsection  ()  {
           </div>
 
            <div className="w-full max-w-[328px] h-10 flex item-center justify-between gap-8 max-[900px]:gap-4">
-               <img src="/communit-icon-1.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
-               <img src="/communit-icon-2.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
-               <img src="/communit-icon-3.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
-               <img src="/communit-icon-4.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
-               <img src="/communit-icon-.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="../communit-icon-1.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="./communit-icon-2.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="./communit-icon-3.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="./communit-icon-4.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="./communit-icon-.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
            </div>
         </div>
       </footer>
