@@ -168,11 +168,11 @@ export default function FooterSubsection  ()  {
           </div>
 
            <div className="w-full max-w-[328px] h-10 flex item-center justify-between gap-8 max-[900px]:gap-4">
-               <img src="communit-icon-1.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
-               <img src="communit-icon-2.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
-               <img src="communit-icon-3.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
-               <img src="communit-icon-4.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
-               <img src="communit-icon-.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="/communit-icon-1.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="/communit-icon-2.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="/communit-icon-3.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="/communit-icon-4.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
+               <img src="/communit-icon-.png" className="w-10 h-10 max-[500px]:w-8 max-[500px]:h-8 cursor-pointer transform transition-transform duration-300 hover:scale-90" alt="" />
            </div>
         </div>
       </footer>
