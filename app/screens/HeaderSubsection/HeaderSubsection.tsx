@@ -22,9 +22,10 @@ export default function HeaderSubsection  ()  {
   return (
     <header className=" flex flex-col items-start gap-[120px] relative self-stretch w-full flex-[0_0_auto] z-[4] bg-transparent">
                        <div className="absolute inset-0 z-0 mt-[100px] max-[1300px]:mt-[40px] max-[767px]:mt-[-100px]">
-                        <img src="/header-img.png" className="w-full h-full max-[1100px]:h-auto max-[767px]:h-full object-contain " alt="" />
+                        <img src="./header-img.png" className="w-full h-full max-[1100px]:h-auto max-[767px]:h-full object-contain " alt="header-img" />
                         <img 
-                          src='/scroll-indicator.png' 
+                          src='./scroll-indicator.png' 
+                          alt="scroll-indicator"
                           className="w-[131px] h-[86px] object-container absolute top-[1100px] right-[730px] max-[1500px]:right-[650px] max-[1300px]:right-[550px] max-[1100px]:top-[830px] max-[1100px]:right-[450px] max-[1000px]:top-[740px] max-[1000px]:right-[380px] max-[800px]:right-[350px] max-[600px]:right-[230px] max-[600px]:top-[640px] max-[500px]:right-[150px] max-[400px]:right-[140px] max-[385px]:right-[130px] max-[350px]:right-[110px] max-[330px]:right-[90px] max-[500px]:top-[600px]"
                         />
                  </div>
