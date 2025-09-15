@@ -116,7 +116,7 @@ export default function SolutionsAndBlogSubsection  () {
   }, []);
 
   return (
-    <section className="flex flex-col items-start gap-[180px] max-[1100px]:gap-[100px] max-[767px]:gap-[50px] pt-[210px] max-[767px]:pt-[70px] max-[1100px]:pt-[120px] pb-[180px] max-[1100px]:pb-[100px] px-0 relative self-stretch w-full flex-[0_0_auto] z-[2]">
+    <section className="flex flex-col items-start  gap-[180px] max-[1100px]:gap-[100px] max-[767px]:gap-[50px] pt-[210px] max-[767px]:pt-[70px] max-[1100px]:pt-[120px] pb-[180px] max-[1100px]:pb-[100px] px-0 relative self-stretch w-full flex-[0_0_auto] z-[2]">
       <div className="flex flex-col items-center px-20 max-[1100px]:px-[50px] max-[767px]:px-[25px] py-0 relative self-stretch w-full flex-[0_0_auto]">
         <motion.div
           initial={{ opacity: 0, y: 50 }}

@@ -129,7 +129,7 @@ export default function FooterSubsection  ()  {
         </div>
       </div>
 
-      <footer className="h-[377px] max-[1000px]:h-[300px] max-[500px]:h-[400px] justify-between pt-[102px] max-[1000px]:pt-[50px] pb-16 max-[1000px]:pb-10 px-20 max-[1100px]:px-[50px] max-[767px]:px-[25px] w-full bg-[#101010] flex flex-col items-start ">
+      <footer className="h-[377px]  max-[1000px]:h-[300px] max-[500px]:h-[400px] justify-between pt-[102px] max-[1000px]:pt-[50px] pb-16 max-[1000px]:pb-10 px-20 max-[1100px]:px-[50px] max-[767px]:px-[25px] w-full bg-[#101010] flex flex-col items-start ">
         <div className="flex items-center justify-between w-full max-[500px]:flex-col max-[500px]:items-start gap-5">
             <img src="/.logo.png" className="w-[90px] h-6" alt="" />
           <nav className="flex w-[640px] items-start justify-end gap-12 max-[767px]:gap-5 max-[500px]:w-[100%] max-[500px]:flex-col z-20">

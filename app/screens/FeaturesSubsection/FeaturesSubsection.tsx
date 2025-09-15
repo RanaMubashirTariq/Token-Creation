@@ -8,7 +8,7 @@ const featuresData = [
   {
     id: 1,
     title: "Multichain Support",
-    description: "Launch tokens on EVM chains & Solana with a single click",
+    description: "Launch tokens on  EVM chains & Solana with a single click",
      img:'/top-.png',
     backgroundImage: "bg-[url(/crystal-shadow-1-1.png)]",
     mainImage: "/slices-2.png",

@@ -33,7 +33,7 @@ export default function HeaderSubsection  ()  {
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, ease: "easeOut" }}
-        className="flex items-center justify-between pt-[72px] max-[1100px]:px-[50px] max-[767px]:px-[25px] max-[1000px]:pt-10 pb-0 px-20 relative self-stretch w-full flex-[0_0_auto] z-[2]"
+        className="flex items-center justify-between pt-[72px]   max-[1100px]:px-[50px] max-[767px]:px-[25px] max-[1000px]:pt-10 pb-0 px-20 relative self-stretch w-full flex-[0_0_auto] z-[2]"
       >
         <motion.div 
           initial={{ opacity: 0, scale: 0.8 }}
